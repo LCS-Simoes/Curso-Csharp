@@ -1,9 +1,0 @@
-{
-    "C_Cpp.intelliSenseEngineFallback": "enabled",
-    "dotnetAcquisitionExtension.existingDotnetPath": [
-        {
-            "extensionId": "ms-dotnettools.csharp",
-            "path": "C:\\Program Files\\dotnet\\dotnet.exe"
-        }
-    ]
-}
