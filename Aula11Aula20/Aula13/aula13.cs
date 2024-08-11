@@ -1,7 +1,7 @@
 using System;
-using Internal;
 
-class aula12
+
+class aula13
 {
     static void Main(){
         float nota1, nota2, media;
@@ -11,11 +11,13 @@ class aula12
         nota2 = float.Parse(Console.ReadLine());
 
         media = (nota1 + nota2) / 2;
-
+        Console.WriteLine("Como é feito a média (Aprovado >=6 || Recuperação >= 3 < 6 || Reprovado < 3)");
         if(media >= 6){
             Console.WriteLine("Aprovado com média de: {0}", media);
+        }else if(media >= 4 && media < 6) {
+            Console.WriteLine("Recuperação com nota: {0}", media);
         }else {
-            Console.WriteLine("Reprovado");
+            Console.WriteLine("Reprovado, média: {0}",media);
         }
     }
 }
