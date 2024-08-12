@@ -26,7 +26,6 @@ class aula18
                 Console.Write(matriz[i,j]  + "\t");
                 
             }
-
             Console.WriteLine(); // Essa linha faz ficar separado cada linha da matriz
         }
     }
