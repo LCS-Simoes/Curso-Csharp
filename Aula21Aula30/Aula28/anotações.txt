@@ -1,0 +1,19 @@
+Modificador Classe: Define a visibilidade da Classe
+public: Classe publica qualquer um pode acessar
+abstract: Classe base para outras classes, não pode instanciar objetos
+sealed: Classe que não pode ser herdada 
+static: Classe que não permite instanciação de objetos e seus membros devem ser static
+
+
+Especificador de acesso: Onde um membro pode ser acessado
+
+public: Qualquer lugar
+private: Só pod ser acessado pela propria classes
+protected: Podem ser acessado na propria classe e nas classes derivadas
+abstract: Os métodos não tem implementação, somente os cabeçalhos
+sealed: O método não pode ser redefinido
+virtual: O método pode ser redefinido em uma classe derivada
+static: o método pode ser chamado memso sem a instanciação de um objeto
+
+
+~~~ Estruturação é a mesma que a estruturação de JAVA ~~~
