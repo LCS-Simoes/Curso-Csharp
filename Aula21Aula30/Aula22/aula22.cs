@@ -16,7 +16,7 @@ class Aula22
         }
 
         */
-
+        
         foreach(int num in numeros){
             Console.WriteLine(num);
         }

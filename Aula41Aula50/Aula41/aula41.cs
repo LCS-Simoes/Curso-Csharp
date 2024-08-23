@@ -1,8 +1,9 @@
 using System;
 using Internal;
 
-class Carro{
+class Carro {
     private int velMax;
+
 
     public int vm{
         //Isto é uma PROPRIEDADE e não um METODO por isso não tem ()
