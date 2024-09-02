@@ -1,7 +1,6 @@
 using System;
 using System.Collections.Generic;
-
-
+using Internal;
 
 class Aula56
 {
@@ -25,6 +24,15 @@ class Aula56
         no = nomes.FindLast("Lucas");
         nomes.AddBefore(no,"Isadora");
     
+        // nomes.Clear(); Limpa a lista
+        // nomes.find(); procura alguem na lista
+        // nomes.remove(); Remove da lista / Ele tem variações de removerFirst e removerLast, mesma ideia do add
+
+        if(nomes.Find("Joana") == null){
+            Console.WriteLine("Nome não encontrado");
+        }else {
+            Console.WriteLine("Nome encontrado");
+        }
 
         foreach (string n  in nomes)
         {
