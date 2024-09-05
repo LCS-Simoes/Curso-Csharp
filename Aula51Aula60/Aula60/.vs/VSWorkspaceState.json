@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Aula60",
+    "\\Aula60\\bin",
+    "\\Aula60\\obj"
   ],
+  "SelectedNode": "\\Aula60\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }
