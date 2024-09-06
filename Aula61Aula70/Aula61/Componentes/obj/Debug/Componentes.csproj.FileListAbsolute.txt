@@ -1,0 +1,10 @@
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\bin\Debug\Componentes.exe.config
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\bin\Debug\Componentes.exe
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\bin\Debug\Componentes.pdb
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.csproj.AssemblyReference.cache
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.F_Principal.resources
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.Properties.Resources.resources
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.csproj.GenerateResource.cache
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.exe
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.pdb
