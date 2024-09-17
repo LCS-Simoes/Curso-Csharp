@@ -12,9 +12,11 @@ namespace Componentes
 {
     public partial class F_Principal : Form
     {
+        public int num;
         public F_Principal()
         {
             InitializeComponent();
+            this.num = 0;
         }
 
         private void btn_add_Click(object sender, EventArgs e)
@@ -39,6 +41,26 @@ namespace Componentes
             tb_listav.Clear();
             tb_veiculo.Clear();
             tb_veiculo.Focus();
+        }
+
+        private void F_Principal_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_mostrar_Click(object sender, EventArgs e)
+        {
+            //Iniciando proximo form
+
+            //Declaração da objeto da classe F_Veiculos
+            F_Veiculos f_Veiculos = new F_Veiculos(tb_listav.Text, this);
+            f_Veiculos.ShowDialog(); 
+            // Exibe o formulario mas poderia ser show / Dialog prende o usuario a tela
+        }
+
+        private void btn_valor_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(num.ToString());
         }
     }
 }
