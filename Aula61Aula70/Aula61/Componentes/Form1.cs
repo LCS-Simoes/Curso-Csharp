@@ -62,5 +62,17 @@ namespace Componentes
         {
             MessageBox.Show(num.ToString());
         }
+
+        private void checkBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_CheckBox f_checkbox = new F_CheckBox();
+            f_checkbox.ShowDialog();
+        }
+
+        private void checkedListBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_CheckedListBox f_checklistbox = new F_CheckedListBox();
+            f_checklistbox.ShowDialog();
+        }
     }
 }

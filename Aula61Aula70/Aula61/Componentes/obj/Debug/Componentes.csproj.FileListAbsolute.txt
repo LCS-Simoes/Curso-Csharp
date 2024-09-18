@@ -9,3 +9,6 @@ D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.csproj.CoreCom
 D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.exe
 D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.pdb
 D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.F_Veiculos.resources
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.F_CheckBox.resources
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.F_CheckedListBox.resources
+D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.F_FilhoCheckBox.resources

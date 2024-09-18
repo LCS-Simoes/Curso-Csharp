@@ -35,11 +35,16 @@
             this.btn_Clear = new System.Windows.Forms.Button();
             this.btn_mostrar = new System.Windows.Forms.Button();
             this.btn_valor = new System.Windows.Forms.Button();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.componentesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.checkBoxToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.checkedListBoxToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // btn_add
             // 
-            this.btn_add.Location = new System.Drawing.Point(188, 25);
+            this.btn_add.Location = new System.Drawing.Point(188, 44);
             this.btn_add.Name = "btn_add";
             this.btn_add.Size = new System.Drawing.Size(75, 23);
             this.btn_add.TabIndex = 0;
@@ -49,7 +54,7 @@
             // 
             // tb_veiculo
             // 
-            this.tb_veiculo.Location = new System.Drawing.Point(12, 25);
+            this.tb_veiculo.Location = new System.Drawing.Point(12, 44);
             this.tb_veiculo.Name = "tb_veiculo";
             this.tb_veiculo.Size = new System.Drawing.Size(170, 20);
             this.tb_veiculo.TabIndex = 1;
@@ -57,7 +62,7 @@
             // lb_init
             // 
             this.lb_init.AutoSize = true;
-            this.lb_init.Location = new System.Drawing.Point(12, 9);
+            this.lb_init.Location = new System.Drawing.Point(12, 28);
             this.lb_init.Name = "lb_init";
             this.lb_init.Size = new System.Drawing.Size(90, 13);
             this.lb_init.TabIndex = 2;
@@ -65,7 +70,7 @@
             // 
             // tb_listav
             // 
-            this.tb_listav.Location = new System.Drawing.Point(12, 51);
+            this.tb_listav.Location = new System.Drawing.Point(12, 70);
             this.tb_listav.Multiline = true;
             this.tb_listav.Name = "tb_listav";
             this.tb_listav.Size = new System.Drawing.Size(251, 235);
@@ -73,7 +78,7 @@
             // 
             // btn_Clear
             // 
-            this.btn_Clear.Location = new System.Drawing.Point(12, 293);
+            this.btn_Clear.Location = new System.Drawing.Point(12, 312);
             this.btn_Clear.Name = "btn_Clear";
             this.btn_Clear.Size = new System.Drawing.Size(251, 23);
             this.btn_Clear.TabIndex = 4;
@@ -83,7 +88,7 @@
             // 
             // btn_mostrar
             // 
-            this.btn_mostrar.Location = new System.Drawing.Point(12, 322);
+            this.btn_mostrar.Location = new System.Drawing.Point(12, 341);
             this.btn_mostrar.Name = "btn_mostrar";
             this.btn_mostrar.Size = new System.Drawing.Size(251, 23);
             this.btn_mostrar.TabIndex = 5;
@@ -93,7 +98,7 @@
             // 
             // btn_valor
             // 
-            this.btn_valor.Location = new System.Drawing.Point(12, 352);
+            this.btn_valor.Location = new System.Drawing.Point(12, 371);
             this.btn_valor.Name = "btn_valor";
             this.btn_valor.Size = new System.Drawing.Size(251, 23);
             this.btn_valor.TabIndex = 7;
@@ -101,11 +106,44 @@
             this.btn_valor.UseVisualStyleBackColor = true;
             this.btn_valor.Click += new System.EventHandler(this.btn_valor_Click);
             // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.componentesToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(269, 24);
+            this.menuStrip1.TabIndex = 8;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // componentesToolStripMenuItem
+            // 
+            this.componentesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.checkBoxToolStripMenuItem,
+            this.checkedListBoxToolStripMenuItem});
+            this.componentesToolStripMenuItem.Name = "componentesToolStripMenuItem";
+            this.componentesToolStripMenuItem.Size = new System.Drawing.Size(94, 20);
+            this.componentesToolStripMenuItem.Text = "Componentes";
+            // 
+            // checkBoxToolStripMenuItem
+            // 
+            this.checkBoxToolStripMenuItem.Name = "checkBoxToolStripMenuItem";
+            this.checkBoxToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.checkBoxToolStripMenuItem.Text = "CheckBox";
+            this.checkBoxToolStripMenuItem.Click += new System.EventHandler(this.checkBoxToolStripMenuItem_Click);
+            // 
+            // checkedListBoxToolStripMenuItem
+            // 
+            this.checkedListBoxToolStripMenuItem.Name = "checkedListBoxToolStripMenuItem";
+            this.checkedListBoxToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.checkedListBoxToolStripMenuItem.Text = "CheckedListBox";
+            this.checkedListBoxToolStripMenuItem.Click += new System.EventHandler(this.checkedListBoxToolStripMenuItem_Click);
+            // 
             // F_Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(281, 383);
+            this.ClientSize = new System.Drawing.Size(269, 408);
             this.Controls.Add(this.btn_valor);
             this.Controls.Add(this.btn_mostrar);
             this.Controls.Add(this.btn_Clear);
@@ -113,12 +151,16 @@
             this.Controls.Add(this.lb_init);
             this.Controls.Add(this.tb_veiculo);
             this.Controls.Add(this.btn_add);
+            this.Controls.Add(this.menuStrip1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MainMenuStrip = this.menuStrip1;
             this.MaximizeBox = false;
             this.Name = "F_Principal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Componentes";
             this.Load += new System.EventHandler(this.F_Principal_Load);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -133,6 +175,10 @@
         private System.Windows.Forms.Button btn_mostrar;
         private System.Windows.Forms.Button btn_valor;
         public System.Windows.Forms.TextBox tb_listav;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem componentesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem checkBoxToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem checkedListBoxToolStripMenuItem;
     }
 }
 
