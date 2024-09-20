@@ -12,3 +12,17 @@ D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.F_Veiculos.res
 D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.F_CheckBox.resources
 D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.F_CheckedListBox.resources
 D:\CurscoC#\Aula61Aula70\Aula61\Componentes\obj\Debug\Componentes.F_FilhoCheckBox.resources
+D:\CurscoC#\Projetos\Componentes\bin\Debug\Componentes.exe.config
+D:\CurscoC#\Projetos\Componentes\bin\Debug\Componentes.exe
+D:\CurscoC#\Projetos\Componentes\bin\Debug\Componentes.pdb
+D:\CurscoC#\Projetos\Componentes\obj\Debug\Componentes.csproj.AssemblyReference.cache
+D:\CurscoC#\Projetos\Componentes\obj\Debug\Componentes.F_Principal.resources
+D:\CurscoC#\Projetos\Componentes\obj\Debug\Componentes.F_CheckBox.resources
+D:\CurscoC#\Projetos\Componentes\obj\Debug\Componentes.F_CheckedListBox.resources
+D:\CurscoC#\Projetos\Componentes\obj\Debug\Componentes.F_FilhoCheckBox.resources
+D:\CurscoC#\Projetos\Componentes\obj\Debug\Componentes.F_Veiculos.resources
+D:\CurscoC#\Projetos\Componentes\obj\Debug\Componentes.Properties.Resources.resources
+D:\CurscoC#\Projetos\Componentes\obj\Debug\Componentes.csproj.GenerateResource.cache
+D:\CurscoC#\Projetos\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+D:\CurscoC#\Projetos\Componentes\obj\Debug\Componentes.exe
+D:\CurscoC#\Projetos\Componentes\obj\Debug\Componentes.pdb
