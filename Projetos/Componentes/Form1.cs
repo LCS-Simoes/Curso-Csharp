@@ -86,5 +86,11 @@ namespace Componentes
             F_DateTimePicker f_date = new F_DateTimePicker();  
             f_date.ShowDialog();    
         }
+
+        private void linkLabelToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_LinkLabel f_link = new F_LinkLabel();
+            f_link.ShowDialog();
+        }
     }
 }
