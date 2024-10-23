@@ -92,5 +92,11 @@ namespace Componentes
             F_LinkLabel f_link = new F_LinkLabel();
             f_link.ShowDialog();
         }
+
+        private void listBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_ListBox f_ListBox = new F_ListBox(); 
+            f_ListBox.ShowDialog();
+        }
     }
 }
