@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\CurscoC#\\Projetos\\Componentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|D:\\CurscoC#\\Projetos\\Componentes\\f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_listview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,26 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "F_ListBox.cs",
-              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_ListBox.cs",
-              "RelativeDocumentMoniker": "F_ListBox.cs",
-              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_ListBox.cs",
-              "RelativeToolTip": "F_ListBox.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwEAAAAAFAAAAAAAAAA==",
+              "Title": "F_ListView.cs",
+              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_ListView.cs",
+              "RelativeDocumentMoniker": "F_ListView.cs",
+              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_ListView.cs*",
+              "RelativeToolTip": "F_ListView.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwFQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:51:05.431Z",
+              "WhenOpened": "2024-10-23T18:47:15.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "F_ListBox.cs [Design]",
-              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_ListBox.cs",
-              "RelativeDocumentMoniker": "F_ListBox.cs",
-              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_ListBox.cs [Design]",
-              "RelativeToolTip": "F_ListBox.cs [Design]",
+              "Title": "F_ListView.cs [Design]",
+              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_ListView.cs",
+              "RelativeDocumentMoniker": "F_ListView.cs",
+              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_ListView.cs [Design]*",
+              "RelativeToolTip": "F_ListView.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:43:36.466Z"
+              "WhenOpened": "2024-10-23T14:18:02.649Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
