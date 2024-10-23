@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|D:\\CurscoC#\\Projetos\\Componentes\\f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "F_ListBox.cs",
               "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_ListBox.cs",
               "RelativeToolTip": "F_ListBox.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAawDsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T13:51:05.431Z",
               "EditorCaption": ""
@@ -50,8 +50,7 @@
               "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_ListBox.cs [Design]",
               "RelativeToolTip": "F_ListBox.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T13:43:36.466Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-23T13:43:36.466Z"
             }
           ]
         }
