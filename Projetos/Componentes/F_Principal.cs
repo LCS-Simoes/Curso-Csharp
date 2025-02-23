@@ -110,5 +110,11 @@ namespace Componentes
             F_MaskedBox f_masked = new F_MaskedBox();
             f_masked.ShowDialog();
         }
+
+        private void monthCalendarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_MonthCalendar f_month = new F_MonthCalendar();
+            f_month.ShowDialog(); 
+        }
     }
 }

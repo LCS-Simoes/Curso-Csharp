@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="F_MonthCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_MonthCalendar.Designer.cs">
+      <DependentUpon>F_MonthCalendar.cs</DependentUpon>
+    </Compile>
     <Compile Include="F_Principal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +120,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="F_MonthCalendar.resx">
+      <DependentUpon>F_MonthCalendar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="F_Principal.resx">
       <DependentUpon>F_Principal.cs</DependentUpon>
     </EmbeddedResource>

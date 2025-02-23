@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\CurscoC#\\Projetos\\Componentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|D:\\CurscoC#\\Projetos\\Componentes\\f_maskedbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_maskedbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_monthcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_monthcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_maskedbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_maskedbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_monthcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_monthcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,26 +39,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "F_MaskedBox.cs",
-              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_MaskedBox.cs",
-              "RelativeDocumentMoniker": "F_MaskedBox.cs",
-              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_MaskedBox.cs",
-              "RelativeToolTip": "F_MaskedBox.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAawDAAAAABAAAAAAAAAA==",
+              "Title": "F_MonthCalendar.cs",
+              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_MonthCalendar.cs",
+              "RelativeDocumentMoniker": "F_MonthCalendar.cs",
+              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_MonthCalendar.cs",
+              "RelativeToolTip": "F_MonthCalendar.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAjwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T21:08:36.661Z",
+              "WhenOpened": "2025-02-23T19:44:46.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "F_MaskedBox.cs [Design]",
-              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_MaskedBox.cs",
-              "RelativeDocumentMoniker": "F_MaskedBox.cs",
-              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_MaskedBox.cs [Design]",
-              "RelativeToolTip": "F_MaskedBox.cs [Design]",
+              "Title": "F_MonthCalendar.cs [Design]",
+              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_MonthCalendar.cs",
+              "RelativeDocumentMoniker": "F_MonthCalendar.cs",
+              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_MonthCalendar.cs [Design]",
+              "RelativeToolTip": "F_MonthCalendar.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T21:07:22.015Z",
+              "WhenOpened": "2025-02-23T19:40:26.915Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_Principal.cs",
+              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_Principal.cs",
+              "RelativeDocumentMoniker": "F_Principal.cs",
+              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_Principal.cs",
+              "RelativeToolTip": "F_Principal.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAWwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:37:57.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "F_Principal.cs [Design]",
+              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_Principal.cs",
+              "RelativeDocumentMoniker": "F_Principal.cs",
+              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_Principal.cs [Design]",
+              "RelativeToolTip": "F_Principal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:37:53.996Z",
               "EditorCaption": " [Design]"
             }
           ]
