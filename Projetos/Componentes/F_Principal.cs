@@ -104,5 +104,11 @@ namespace Componentes
             F_ListView f_listView = new F_ListView();
             f_listView.ShowDialog();
         }
+
+        private void maskedBoxToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_MaskedBox f_masked = new F_MaskedBox();
+            f_masked.ShowDialog();
+        }
     }
 }

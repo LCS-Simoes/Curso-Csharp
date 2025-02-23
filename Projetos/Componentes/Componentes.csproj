@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="F_Principal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="F_Principal.Designer.cs">
+      <DependentUpon>F_Principal.cs</DependentUpon>
     </Compile>
     <Compile Include="F_CheckBox.cs">
       <SubType>Form</SubType>
@@ -100,6 +100,12 @@
     <Compile Include="F_ListView.Designer.cs">
       <DependentUpon>F_ListView.cs</DependentUpon>
     </Compile>
+    <Compile Include="F_MaskedBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_MaskedBox.Designer.cs">
+      <DependentUpon>F_MaskedBox.cs</DependentUpon>
+    </Compile>
     <Compile Include="F_Veiculos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -108,8 +114,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="F_Principal.resx">
+      <DependentUpon>F_Principal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="F_CheckBox.resx">
       <DependentUpon>F_CheckBox.cs</DependentUpon>
@@ -134,6 +140,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="F_ListView.resx">
       <DependentUpon>F_ListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_MaskedBox.resx">
+      <DependentUpon>F_MaskedBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="F_Veiculos.resx">
       <DependentUpon>F_Veiculos.cs</DependentUpon>
