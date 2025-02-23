@@ -116,5 +116,19 @@ namespace Componentes
             F_MonthCalendar f_month = new F_MonthCalendar();
             f_month.ShowDialog(); 
         }
+
+        private void MenuNotificacoes_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+            if(e.ClickedItem.Name.ToString() == "tsmpi_fechar")
+            {
+                this.Close();  
+            }else if(e.ClickedItem.ToString() == "Restaurar")
+            {
+                this.WindowState = FormWindowState.Normal;
+            }else if (e.ClickedItem.ToString() == "Mensagem")
+            {
+                MessageBox.Show("Valeu valeu");
+            }
+        }
     }
 }
