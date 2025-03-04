@@ -130,5 +130,17 @@ namespace Componentes
                 MessageBox.Show("Valeu valeu");
             }
         }
+
+        private void numericUpDownToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_NumericUpDown f_numeric = new F_NumericUpDown();
+            f_numeric.ShowDialog();
+        }
+
+        private void trackBarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_TrackBar f_track = new F_TrackBar();
+            f_track.ShowDialog();
+        }
     }
 }

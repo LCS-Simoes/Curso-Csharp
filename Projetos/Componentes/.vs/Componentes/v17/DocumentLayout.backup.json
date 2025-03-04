@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\CurscoC#\\Projetos\\Componentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|D:\\CurscoC#\\Projetos\\Componentes\\f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_trackbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_trackbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_trackbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_trackbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|D:\\CurscoC#\\Projetos\\Componentes\\f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +34,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "F_Principal.cs [Design]",
-              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_Principal.cs",
-              "RelativeDocumentMoniker": "F_Principal.cs",
-              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_Principal.cs [Design]",
-              "RelativeToolTip": "F_Principal.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "F_TrackBar.cs",
+              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_TrackBar.cs",
+              "RelativeDocumentMoniker": "F_TrackBar.cs",
+              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_TrackBar.cs",
+              "RelativeToolTip": "F_TrackBar.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCAAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T20:02:44.463Z",
+              "WhenOpened": "2025-03-04T14:33:19.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_TrackBar.cs [Design]",
+              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_TrackBar.cs",
+              "RelativeDocumentMoniker": "F_TrackBar.cs",
+              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_TrackBar.cs [Design]",
+              "RelativeToolTip": "F_TrackBar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:29:21.349Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "F_Principal.cs",
               "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_Principal.cs",
               "RelativeDocumentMoniker": "F_Principal.cs",
               "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_Principal.cs",
               "RelativeToolTip": "F_Principal.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAWwHkAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAQwJAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T19:37:57.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T19:37:57.586Z"
             }
           ]
         }
