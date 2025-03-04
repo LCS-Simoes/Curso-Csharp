@@ -49,12 +49,13 @@
             this.maskedBoxToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.monthCalendarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.numericUpDownToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.trackBarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.MenuNotificacoes = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.tspmi_restaurar = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmpi_mensagem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmpi_fechar = new System.Windows.Forms.ToolStripMenuItem();
-            this.trackBarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.treeViewToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.MenuNotificacoes.SuspendLayout();
             this.SuspendLayout();
@@ -146,7 +147,8 @@
             this.maskedBoxToolStripMenuItem,
             this.monthCalendarToolStripMenuItem,
             this.numericUpDownToolStripMenuItem,
-            this.trackBarToolStripMenuItem});
+            this.trackBarToolStripMenuItem,
+            this.treeViewToolStripMenuItem});
             this.componentesToolStripMenuItem.Name = "componentesToolStripMenuItem";
             this.componentesToolStripMenuItem.Size = new System.Drawing.Size(94, 20);
             this.componentesToolStripMenuItem.Text = "Componentes";
@@ -221,6 +223,13 @@
             this.numericUpDownToolStripMenuItem.Text = "NumericUpDown";
             this.numericUpDownToolStripMenuItem.Click += new System.EventHandler(this.numericUpDownToolStripMenuItem_Click);
             // 
+            // trackBarToolStripMenuItem
+            // 
+            this.trackBarToolStripMenuItem.Name = "trackBarToolStripMenuItem";
+            this.trackBarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.trackBarToolStripMenuItem.Text = "TrackBar";
+            this.trackBarToolStripMenuItem.Click += new System.EventHandler(this.trackBarToolStripMenuItem_Click);
+            // 
             // notifyIcon1
             // 
             this.notifyIcon1.ContextMenuStrip = this.MenuNotificacoes;
@@ -256,12 +265,12 @@
             this.tsmpi_fechar.Size = new System.Drawing.Size(133, 22);
             this.tsmpi_fechar.Text = "Fechar";
             // 
-            // trackBarToolStripMenuItem
+            // treeViewToolStripMenuItem
             // 
-            this.trackBarToolStripMenuItem.Name = "trackBarToolStripMenuItem";
-            this.trackBarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.trackBarToolStripMenuItem.Text = "TrackBar";
-            this.trackBarToolStripMenuItem.Click += new System.EventHandler(this.trackBarToolStripMenuItem_Click);
+            this.treeViewToolStripMenuItem.Name = "treeViewToolStripMenuItem";
+            this.treeViewToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.treeViewToolStripMenuItem.Text = "TreeView";
+            this.treeViewToolStripMenuItem.Click += new System.EventHandler(this.treeViewToolStripMenuItem_Click);
             // 
             // F_Principal
             // 
@@ -318,6 +327,7 @@
         private System.Windows.Forms.ToolStripMenuItem tsmpi_fechar;
         private System.Windows.Forms.ToolStripMenuItem numericUpDownToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem trackBarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem treeViewToolStripMenuItem;
     }
 }
 

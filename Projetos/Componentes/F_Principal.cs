@@ -142,5 +142,11 @@ namespace Componentes
             F_TrackBar f_track = new F_TrackBar();
             f_track.ShowDialog();
         }
+
+        private void treeViewToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_TreeView f_tree = new F_TreeView();
+            f_tree.ShowDialog();    
+        }
     }
 }
