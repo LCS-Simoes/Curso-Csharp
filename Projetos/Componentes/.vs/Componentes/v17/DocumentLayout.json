@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\CurscoC#\\Projetos\\Componentes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_treeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_treeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_treeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_treeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|d:\\curscoc#\\projetos\\componentes\\f_tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{97EF3E94-FA65-4004-8F7A-9BD896B8FC23}|Componentes.csproj|solutionrelative:f_tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,26 +31,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "F_TreeView.cs",
-              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_TreeView.cs",
-              "RelativeDocumentMoniker": "F_TreeView.cs",
-              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_TreeView.cs",
-              "RelativeToolTip": "F_TreeView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Title": "F_TabControl.cs",
+              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_TabControl.cs",
+              "RelativeDocumentMoniker": "F_TabControl.cs",
+              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_TabControl.cs",
+              "RelativeToolTip": "F_TabControl.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T16:36:08.638Z",
+              "WhenOpened": "2025-03-05T18:18:28.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "F_TreeView.cs [Design]",
-              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_TreeView.cs",
-              "RelativeDocumentMoniker": "F_TreeView.cs",
-              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_TreeView.cs [Design]",
-              "RelativeToolTip": "F_TreeView.cs [Design]",
+              "Title": "F_TabControl.cs [Design]",
+              "DocumentMoniker": "D:\\CurscoC#\\Projetos\\Componentes\\F_TabControl.cs",
+              "RelativeDocumentMoniker": "F_TabControl.cs",
+              "ToolTip": "D:\\CurscoC#\\Projetos\\Componentes\\F_TabControl.cs [Design]",
+              "RelativeToolTip": "F_TabControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T16:35:06.115Z",
+              "WhenOpened": "2025-03-05T18:18:24.469Z",
               "EditorCaption": " [Design]"
             }
           ]

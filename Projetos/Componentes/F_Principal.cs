@@ -148,5 +148,17 @@ namespace Componentes
             F_TreeView f_tree = new F_TreeView();
             f_tree.ShowDialog();    
         }
+
+        private void splitContainerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_SplitContainer f_splitcont = new F_SplitContainer();
+            f_splitcont.ShowDialog();
+        }
+
+        private void tabControlToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_TabControl f_tab = new F_TabControl();
+            f_tab.ShowDialog();
+        }
     }
 }

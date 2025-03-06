@@ -50,12 +50,14 @@
             this.monthCalendarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.numericUpDownToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.trackBarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.treeViewToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.splitContainerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.MenuNotificacoes = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.tspmi_restaurar = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmpi_mensagem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmpi_fechar = new System.Windows.Forms.ToolStripMenuItem();
-            this.treeViewToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tabControlToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.MenuNotificacoes.SuspendLayout();
             this.SuspendLayout();
@@ -148,7 +150,9 @@
             this.monthCalendarToolStripMenuItem,
             this.numericUpDownToolStripMenuItem,
             this.trackBarToolStripMenuItem,
-            this.treeViewToolStripMenuItem});
+            this.treeViewToolStripMenuItem,
+            this.splitContainerToolStripMenuItem,
+            this.tabControlToolStripMenuItem});
             this.componentesToolStripMenuItem.Name = "componentesToolStripMenuItem";
             this.componentesToolStripMenuItem.Size = new System.Drawing.Size(94, 20);
             this.componentesToolStripMenuItem.Text = "Componentes";
@@ -230,6 +234,20 @@
             this.trackBarToolStripMenuItem.Text = "TrackBar";
             this.trackBarToolStripMenuItem.Click += new System.EventHandler(this.trackBarToolStripMenuItem_Click);
             // 
+            // treeViewToolStripMenuItem
+            // 
+            this.treeViewToolStripMenuItem.Name = "treeViewToolStripMenuItem";
+            this.treeViewToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.treeViewToolStripMenuItem.Text = "TreeView";
+            this.treeViewToolStripMenuItem.Click += new System.EventHandler(this.treeViewToolStripMenuItem_Click);
+            // 
+            // splitContainerToolStripMenuItem
+            // 
+            this.splitContainerToolStripMenuItem.Name = "splitContainerToolStripMenuItem";
+            this.splitContainerToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.splitContainerToolStripMenuItem.Text = "SplitContainer";
+            this.splitContainerToolStripMenuItem.Click += new System.EventHandler(this.splitContainerToolStripMenuItem_Click);
+            // 
             // notifyIcon1
             // 
             this.notifyIcon1.ContextMenuStrip = this.MenuNotificacoes;
@@ -265,12 +283,12 @@
             this.tsmpi_fechar.Size = new System.Drawing.Size(133, 22);
             this.tsmpi_fechar.Text = "Fechar";
             // 
-            // treeViewToolStripMenuItem
+            // tabControlToolStripMenuItem
             // 
-            this.treeViewToolStripMenuItem.Name = "treeViewToolStripMenuItem";
-            this.treeViewToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.treeViewToolStripMenuItem.Text = "TreeView";
-            this.treeViewToolStripMenuItem.Click += new System.EventHandler(this.treeViewToolStripMenuItem_Click);
+            this.tabControlToolStripMenuItem.Name = "tabControlToolStripMenuItem";
+            this.tabControlToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.tabControlToolStripMenuItem.Text = "TabControl";
+            this.tabControlToolStripMenuItem.Click += new System.EventHandler(this.tabControlToolStripMenuItem_Click);
             // 
             // F_Principal
             // 
@@ -328,6 +346,8 @@
         private System.Windows.Forms.ToolStripMenuItem numericUpDownToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem trackBarToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem treeViewToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem splitContainerToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem tabControlToolStripMenuItem;
     }
 }
 
